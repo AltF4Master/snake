@@ -1,2 +1,2 @@
 # snake
-Snake game with graphucs.h C/C++
+Snake game made with graphics.h C/C++
